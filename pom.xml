@@ -90,6 +90,11 @@
             <artifactId>my-data-starter</artifactId>
             <version>1.0.9</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.weibin268</groupId>
+            <artifactId>my-workflow-starter</artifactId>
+            <version>1.0.0</version>
+        </dependency>
         <!--end my lib-->
         <!--begin spring boot-->
         <dependency>
